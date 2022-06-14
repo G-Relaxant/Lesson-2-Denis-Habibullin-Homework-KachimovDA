@@ -1,0 +1,15 @@
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\bin\Debug\net6.0\Task10_second_of_three.exe
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\bin\Debug\net6.0\Task10_second_of_three.deps.json
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\bin\Debug\net6.0\Task10_second_of_three.runtimeconfig.json
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\bin\Debug\net6.0\Task10_second_of_three.dll
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\bin\Debug\net6.0\Task10_second_of_three.pdb
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\obj\Debug\net6.0\Task10_second_of_three.csproj.AssemblyReference.cache
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\obj\Debug\net6.0\Task10_second_of_three.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\obj\Debug\net6.0\Task10_second_of_three.AssemblyInfoInputs.cache
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\obj\Debug\net6.0\Task10_second_of_three.AssemblyInfo.cs
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\obj\Debug\net6.0\Task10_second_of_three.csproj.CoreCompileInputs.cache
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\obj\Debug\net6.0\Task10_second_of_three.dll
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\obj\Debug\net6.0\refint\Task10_second_of_three.dll
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\obj\Debug\net6.0\Task10_second_of_three.pdb
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\obj\Debug\net6.0\Task10_second_of_three.genruntimeconfig.cache
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task10_second_of_three\obj\Debug\net6.0\ref\Task10_second_of_three.dll
