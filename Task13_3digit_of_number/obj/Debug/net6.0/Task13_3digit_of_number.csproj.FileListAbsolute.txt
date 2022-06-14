@@ -1,0 +1,15 @@
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\obj\Debug\net6.0\Task13_3digit_of_number.csproj.AssemblyReference.cache
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\obj\Debug\net6.0\Task13_3digit_of_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\obj\Debug\net6.0\Task13_3digit_of_number.AssemblyInfoInputs.cache
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\obj\Debug\net6.0\Task13_3digit_of_number.AssemblyInfo.cs
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\obj\Debug\net6.0\Task13_3digit_of_number.csproj.CoreCompileInputs.cache
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\bin\Debug\net6.0\Task13_3digit_of_number.exe
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\bin\Debug\net6.0\Task13_3digit_of_number.deps.json
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\bin\Debug\net6.0\Task13_3digit_of_number.runtimeconfig.json
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\bin\Debug\net6.0\Task13_3digit_of_number.dll
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\bin\Debug\net6.0\Task13_3digit_of_number.pdb
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\obj\Debug\net6.0\Task13_3digit_of_number.dll
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\obj\Debug\net6.0\refint\Task13_3digit_of_number.dll
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\obj\Debug\net6.0\Task13_3digit_of_number.pdb
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\obj\Debug\net6.0\Task13_3digit_of_number.genruntimeconfig.cache
+C:\Users\G1Sup\Desktop\Lesson-2-Denis-Habibullin-Homework-KachimovDA\Task13_3digit_of_number\obj\Debug\net6.0\ref\Task13_3digit_of_number.dll

@@ -25,9 +25,10 @@ else
 
 int DivToThree(int a)
 {
+    int b = 0;
     while(a > 999)
     {
-        int b = a / 10;
+        b = a / 10;
         a = b;
     }
     return b;
