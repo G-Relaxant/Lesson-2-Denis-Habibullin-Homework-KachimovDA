@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\G1Sup\\Desktop\\Lesson-2-Denis-Habibullin-Homework-KachimovDA\\Task13_3digit_of_number\\Task13_3digit_of_number.csproj": {}
+    "C:\\Users\\user\\Desktop\\Lesson-2-Denis-Habibullin-Homework-KachimovDA\\Task13_3digit_of_number\\Task13_3digit_of_number.csproj": {}
   },
   "projects": {
-    "C:\\Users\\G1Sup\\Desktop\\Lesson-2-Denis-Habibullin-Homework-KachimovDA\\Task13_3digit_of_number\\Task13_3digit_of_number.csproj": {
+    "C:\\Users\\user\\Desktop\\Lesson-2-Denis-Habibullin-Homework-KachimovDA\\Task13_3digit_of_number\\Task13_3digit_of_number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\G1Sup\\Desktop\\Lesson-2-Denis-Habibullin-Homework-KachimovDA\\Task13_3digit_of_number\\Task13_3digit_of_number.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Lesson-2-Denis-Habibullin-Homework-KachimovDA\\Task13_3digit_of_number\\Task13_3digit_of_number.csproj",
         "projectName": "Task13_3digit_of_number",
-        "projectPath": "C:\\Users\\G1Sup\\Desktop\\Lesson-2-Denis-Habibullin-Homework-KachimovDA\\Task13_3digit_of_number\\Task13_3digit_of_number.csproj",
-        "packagesPath": "C:\\Users\\G1Sup\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\G1Sup\\Desktop\\Lesson-2-Denis-Habibullin-Homework-KachimovDA\\Task13_3digit_of_number\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Lesson-2-Denis-Habibullin-Homework-KachimovDA\\Task13_3digit_of_number\\Task13_3digit_of_number.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Lesson-2-Denis-Habibullin-Homework-KachimovDA\\Task13_3digit_of_number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\G1Sup\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
