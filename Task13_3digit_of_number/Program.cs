@@ -15,13 +15,31 @@ else
     }
     else
     {
-        if(number < 100)
+        if(number < 100 && number > -100)
         {
             Console.WriteLine("Third digit in your number is missing");
         }
+        else
+        {
+            if(number > -1000 && number < -99)
+            {
+                number = number * -1;
+                int digit3 = ThirdNumFunc(number);
+                Console.WriteLine("Third  digit = " + digit3);
+            }
+            else
+            {
+                if(number < -999)
+                {
+                    number = number * -1;
+                    int number3 = DivToThree(number);
+                    int digit3 = ThirdNumFunc(number3);
+                    Console.WriteLine("Third  digit = " + digit3);
+                }
+            }
+        }
     }
 }
-
 
 int DivToThree(int a)
 {
@@ -33,7 +51,6 @@ int DivToThree(int a)
     }
     return b;
 }
-
 
 int Input(string output)
 {
